@@ -26,7 +26,7 @@ var common = {
   },
   plugins: [
     new HtmlwebpackPlugin({
-      title: 'Days of Our YouTube'
+      title: 'React+Alt!'
     })
   ]
 };
